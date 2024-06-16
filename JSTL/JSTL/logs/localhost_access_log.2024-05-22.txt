@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:48:59 +0530] "GET /JSTL HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/ HTTP/1.1" 200 126110
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/CSS/E_Home.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/l1-Photoroom.png-Photoroom.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/g2.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/v3-removebg-preview.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/p1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/w1.webp HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/o1.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/o2.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /JSTL/Images/2.webp HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/May/2024:09:49:02 +0530] "GET /favicon.ico HTTP/1.1" 404 683
